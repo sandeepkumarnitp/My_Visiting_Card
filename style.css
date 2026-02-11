@@ -30,7 +30,7 @@ body{
     flex-wrap: wrap;
 }
 .image{
-    background-image: url("/VisitingCard/sandeep.jpeg");
+    background-image: url("sandeep.jpeg");
     background-size: cover;
     height: 150px;
     width: 150px;
